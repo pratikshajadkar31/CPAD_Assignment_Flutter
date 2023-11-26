@@ -6,7 +6,6 @@
 **_Software, Tools and SDKs_**
 
 - [Android Studio](https://developer.android.com/studio)
-- [GitHub](https://github.com)
 - [Open JDK 17](https://openjdk.org/projects/jdk/17)
 - [VS Code](https://code.visualstudio.com/)
 - [Flutter SDK](https://flutter.dev)
