@@ -47,7 +47,8 @@ Found 4 connected devices:<br>
 Run "flutter emulators" to list and start any available device emulators. <br>
 
 <br>
-  **_Application Features_** <br>
+  
+_**  Application Features **_  <br>
 
 - Developed for Web and Mobile, tested on Chrome and iOS Simulator.  <br>
 - Setup Back4App account, which serves as a BaaS. <br>
