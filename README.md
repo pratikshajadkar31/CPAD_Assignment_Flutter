@@ -46,7 +46,6 @@ Found 4 connected devices:<br>
 
 Run "flutter emulators" to list and start any available device emulators. <br>
 
-<br>
   
 ** Application Features **
 
